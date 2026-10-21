@@ -11,7 +11,7 @@
       "glyph": "plate",
       "label": "Isolated emitter",
       "role": "structure",
-      "x": 0.12,
+      "x": 0.14,
       "y": 0.32
     },
     {
@@ -27,7 +27,7 @@
       "glyph": "detector",
       "label": "Emission toward two detectors",
       "role": "sense",
-      "x": 0.88,
+      "x": 0.86,
       "y": 0.32
     },
     {
@@ -35,24 +35,24 @@
       "glyph": "plate",
       "label": "Time-tag events",
       "role": "structure",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "detector",
       "label": "Delay coincidences",
       "role": "path",
-      "x": 0.52,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "detector",
       "label": "Suppressed near-zero-delay coincidences qualitatively",
       "role": "path",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
